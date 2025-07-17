@@ -32,22 +32,6 @@ This project was completed as part of the [freeCodeCamp](https://www.freecodecam
 
 ---
 
-## Installation & Running Locally
-
-1. Clone the repo  
-    `git clone <your-repo-url>`
-    
-2. Install dependencies  
-    `npm install`
-    
-3. Start the server  
-    `npm start`
-    
-4. Open your browser or use a tool like Postman to test the endpoints.
-    
-
----
-
 ## Technologies Used
 
 - Node.js
